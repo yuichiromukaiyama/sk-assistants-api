@@ -1,5 +1,7 @@
 # SK Assistants API DEMO
 
+これは Semantic Kernel を用いて、簡単に Azure OpenAI Assistants API に接続するデモです。
+
 ## response image
 
 ```json
